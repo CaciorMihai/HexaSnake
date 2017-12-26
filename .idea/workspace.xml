@@ -52,12 +52,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SnakeGame.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SnakeGame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/game/SnakeGame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+            <state relative-caret-position="418">
+              <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
               <folding>
+                <element signature="imports" expanded="true" />
                 <element signature="method#paintSnake#0;class#SnakeGame#0" expanded="false" />
                 <element signature="method#paintApple#0;class#SnakeGame#0" expanded="false" />
                 <element signature="method#paintBlank#0;class#SnakeGame#0" expanded="false" />
@@ -72,6 +73,16 @@
                 <element signature="e#9839#9840#0" expanded="true" />
                 <element signature="e#9893#9894#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Colours.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/utils/Colours.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -152,7 +163,6 @@
         <option value="$PROJECT_DIR$/src/GUI.java" />
         <option value="$PROJECT_DIR$/src/hexGrid/GridDrawer.java" />
         <option value="$PROJECT_DIR$/src/Test.java" />
-        <option value="$PROJECT_DIR$/src/utils/Colours.java" />
         <option value="$PROJECT_DIR$/src/game/Run.java" />
         <option value="$PROJECT_DIR$/src/hexGrid/Hex.java" />
         <option value="$PROJECT_DIR$/src/TestClassPleaseIgnore.java" />
@@ -161,6 +171,7 @@
         <option value="$PROJECT_DIR$/src/Main.java" />
         <option value="$PROJECT_DIR$/src/gui/GUI.java" />
         <option value="$PROJECT_DIR$/src/game/SnakeGame.java" />
+        <option value="$PROJECT_DIR$/src/utils/Colours.java" />
       </list>
     </option>
   </component>
@@ -231,7 +242,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="org.infernus.idea.checkstyle.CheckStyleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -814,13 +825,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/game/Rune.java" />
-    <entry file="file://$PROJECT_DIR$/src/utils/Colours.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="49" lean-forward="false" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/hexGrid/Hex.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -918,9 +922,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/game/SnakeGame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        <state relative-caret-position="418">
+          <caret line="19" column="54" lean-forward="false" selection-start-line="19" selection-start-column="54" selection-end-line="19" selection-end-column="54" />
           <folding>
+            <element signature="imports" expanded="true" />
             <element signature="method#paintSnake#0;class#SnakeGame#0" expanded="false" />
             <element signature="method#paintApple#0;class#SnakeGame#0" expanded="false" />
             <element signature="method#paintBlank#0;class#SnakeGame#0" expanded="false" />
@@ -935,6 +940,14 @@
             <element signature="e#9839#9840#0" expanded="true" />
             <element signature="e#9893#9894#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/utils/Colours.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="50" lean-forward="false" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
